@@ -1,3 +1,4 @@
+#IBM/ Sobeys Retail Hackathon 2015
 A Retail Hackathon:
 
 All of us purchase a huge variety of items from retail outlets: clothing, gifts, and of course, food.  With every grocery cart filled with fresh vegetables, cereal, and cans of soup, comes an incredible array of point of sale, services, supply chain, and customer data.  
